@@ -1,6 +1,6 @@
 <!-- <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Lokman-Abd/count.svg" />
+  <img src="https://profile-counter.glitch.me/abdelghani-Moussaoual/count.svg" />
 </p> -->
 
 <h1 align="center">Hi 👋, I'm Abdelghani Moussaouali</h1>
@@ -74,9 +74,9 @@
 
 - 🌱 I’m currently learning **tensorflow,pytorch**
 
-- 💬 Ask me about **laravel,vuejs,php,html,css,js**
+- 💬 Ask me about **laravel,flutter,php**
 
-- 📫 How to reach me **lokmane.abdessalam@gmail.com**
+- 📫 How to reach me **elmiss3ali2004@gmail.com**
 
 
 
