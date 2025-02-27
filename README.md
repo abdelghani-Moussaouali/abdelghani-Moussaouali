@@ -13,7 +13,7 @@
 </p>
 
 
-<h3 align="center">A dedicated Full Stack Developer proficient in FLutter and Laravel, passionate about crafting dynamic and responsive mobile applications. With a strong foundation in both front-end and back-end technologies, I am committed to delivering high-quality solutions that enhance user experience. aiming to integrate innovative approaches into my projects and further enhance my skill set.</h3>
+<h3 align="center">A Full Stack Developer proficient in FLutter and Laravel, passionate about crafting dynamic and responsive mobile applications. With a strong foundation in both front-end and back-end technologies, I am committed to delivering high-quality solutions that enhance user experience. aiming to integrate innovative approaches into my projects and further enhance my skill set.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
